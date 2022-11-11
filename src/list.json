@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/8f01d1e9-48f4-4e55-886d-0b255b9bbf24_600x.png?v=1625045855",
+        "name": "BOAT",
+        "title": "boAt smart WATCH STORM",
+        "price": "1240 Points"
+    },
+    {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/I/61pYID6Qc3L._SL1094_.jpg",
+        "name": "WILD CRAFT",
+        "title": "Wildcraft Dune Wildcraft Red",
+        "price": "1460 Points"
+    },
+    {
+        "id": 3,
+        "image": "https://m.media-amazon.com/images/I/61IMRs+o0iL._SL1500_.jpg",
+        "name": "BOAT",
+        "title": "boAt Xtend Smartwatch",
+        "price": "1230 Points"
+    },{
+        "id": 4,
+        "image": "https://m.media-amazon.com/images/I/71AGg50zKIL._SY355_.jpg",
+        "name": "IGEAR",
+        "title": "₹iGEAR Dynamo",
+        "price": "750 Points"
+    },
+{
+        "id": 5,
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/616b4ead-bbd9-4a16-aeab-8d331a16f697_600x.png?v=1642405569",
+        "name": "BOAT",
+        "title": "boAt TWS airdopes 138",
+        "price": "900 Points"
+    }
+]

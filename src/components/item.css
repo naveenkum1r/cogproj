@@ -1,0 +1,30 @@
+.search-item{
+    background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
+}
+.search-item img{
+    width:100%;
+}
+.heart-container{
+    text-align: end;
+}
+.heart-container svg{
+    padding:5px 10px;
+    height: 20px;
+}
+.item-name{
+    font-weight: bold;
+    margin-bottom:15px;
+}
+.item-title{
+    margin-bottom: 15px;
+    padding: 0 10px;
+}
+.item-price{
+    color: deepskyblue;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
